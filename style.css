@@ -47,7 +47,7 @@
 
   .jumbotron_index h2, h3{
     text-align: right;
-    font: 50px "Comic Sans MS";
+    font: 50px "Times New Roman";
   }
 
   .jumbotron {
@@ -67,7 +67,7 @@
     margin: 0;
     color: #fff;
     text-align: right;
-    font: 60px "Comic Sans MS";
+    font: 60px "Times New Roman";
   }
   
   section{
@@ -176,7 +176,3 @@
   section ul{
     color: white;
   }
-
-
-  
-
